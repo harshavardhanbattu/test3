@@ -1,5 +1,5 @@
 ---
 # tasks file for patch
 yum:
-   name: httpd*, tree
+   name: httpd*, tree*
    state: latest
